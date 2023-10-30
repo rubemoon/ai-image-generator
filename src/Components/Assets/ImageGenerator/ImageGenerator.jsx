@@ -15,7 +15,7 @@ const ImageGenerator = () => {
       Headers: {
         "content-Type": "application/json",
         Authorization:
-          "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",
+          "authorization of openai",
         "User-Agent": "chrome"
       },
       body: JSON.stringify({
